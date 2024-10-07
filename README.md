@@ -8,14 +8,18 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 1. Clone the repository
+   
 Git clone https://github.com/Luciferxy/iPHONE.git
 
-2. Install dependencies
+3. Install dependencies
+   
 npm install
 
-3. Run the development server
+4. Run the development server
+   
 npm run dev
 
-4. Build for production
+6. Build for production
+   
 npm run build
 
